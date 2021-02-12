@@ -1,4 +1,9 @@
-Never Ending Battle MVPS
+
+# Never Ending Battle MVPS
+
+This is an Idle game I have decided to work on and this readme will show the updates and progress.
+
+## Progress - 0 %
 
 ### MAIN GAME LOOP
  * Map (Difficulties)
